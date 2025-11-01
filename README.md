@@ -1,4 +1,4 @@
-# WebApi1992024
+# WebApi
 
 ## Overview
 This repository contains the source code for the Web API project named WebApi1992024. The project is implemented entirely in JavaScript and offers a variety of API endpoints to support different functionalities. It is designed to be lightweight, efficient, and easy to integrate into other applications.
